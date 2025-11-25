@@ -1,4 +1,4 @@
-# Simple Calculator (Python)
+# Simple Calculator 
 
 # A console-based calculator application built in Python.
 # This mini-project performs basic arithmetic operations including addition, subtraction, multiplication, and division.
