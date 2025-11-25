@@ -1,5 +1,5 @@
 # calculator.py
-# Simple Calculator (python) – Addition, Subtraction, Multiplication, Division
+# Simple Calculator (using python) – Addition, Subtraction, Multiplication, Division
 
 def add(a, b):
     return a + b
